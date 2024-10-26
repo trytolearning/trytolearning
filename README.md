@@ -23,12 +23,3 @@ Welcome to my GitHub profile! Here you will find a collection of my projects, co
 
 ## 🔥 GitHub Streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gusalitt&theme=radical)
-
----
-
-## 📂 Projects:
-- **[Full-Project: Landing Page](https://github.com/gusalitt/Full-Project)**  
-  A fully responsive **landing page** built with modern web design principles. It demonstrates smooth animations, SEO-friendly structure, and a user-friendly interface suitable for small businesses or personal branding.
-
-- **[Aplikasi Perpustakaan](https://github.com/gusalitt/Aplikasi-Perpustakaan)**  
-  A **library management system** developed using CodeIgniter 4. It provides features such as book inventory management, lending and returning system, member registration, and the ability to generate lending reports in PDF format.
